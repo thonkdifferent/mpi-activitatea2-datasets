@@ -3,7 +3,7 @@ Start SAT. Resultat: SAT
 Clauze totale: 0
 Număr maxim de clauze 10
 Timp de execuție: 68μs
-Memorie consumată: 18931712B.
-Memorie consumată: 18488KB.
-Memorie consumată: 18MB.
+Memorie consumată: 18849792B.
+Memorie consumată: 18408KB.
+Memorie consumată: 17MB.
 Memorie consumată: 0GB.

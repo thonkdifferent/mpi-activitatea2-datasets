@@ -2,8 +2,8 @@ S-a citit tests/batch_1/test342.cnf
 Start SAT. Resultat: UNSAT
 Clauze totale: 9596
 Număr maxim de clauze 9596
-Timp de execuție: 477465μs
-Memorie consumată: 19083264B.
-Memorie consumată: 18636KB.
+Timp de execuție: 44567μs
+Memorie consumată: 18890752B.
+Memorie consumată: 18448KB.
 Memorie consumată: 18MB.
 Memorie consumată: 0GB.
