@@ -20,7 +20,7 @@ Fiecare baterie de teste conține 1000 de teste cu un anumit specific:
 - Bateria 4: Set de date cu mimim 3 clauze cu 43 literali și 50 clauze
 
 ### Interpretarea rezultatelor
-În fiecare folder de rezultate ar trebui să existe 1001 fișiere (câte 1 per test).
+În fiecare folder de rezultate ar trebui să existe 1001 fișiere (câte 1 per test, 1 fișier CSV).
 
 În cazul în care programele sunt oprite prematur, NU se va genera un csv de test. Testele care au fost rezolvate vor avea un conținut similar cu
 
