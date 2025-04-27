@@ -7,7 +7,7 @@
 1. Se clonează / descarcă repo-ul acesta într-o locație ușor accesibilă din linia de comandă (Terminal / Command Prompt / Power Shell / ...)
 2. Se clonează / descarcă [repo-ul cu algoritmi](https://github.com/EloquentDevTeam/SAT-Algorithms/) într-o locație ușor accesibilă din linia de comandă (Terminal / Command Prompt / Power Shell / ...)
 3. Se execută instrucțiunile de pe repo-ul cu algoritmi
-4. Se rulează scriptul python de benchmark cu ținta pe `<this_repo_path>/seturi-de-date/batch_<nr>`, unde `<nr>` poate să ia valori în intervalul **[1,4]**
+4. Se rulează scriptul python de benchmark cu ținta (argumentul `-t`) la `<this_repo_path>/seturi-de-date/batch_<nr>`, unde `<nr>` poate să ia valori în intervalul **[1,4]**
 5. După rulare, în interiorul folderului de teste se va genera un folder cu rezultate numit `<algoritm>_results`. Dacă toți algoritmii s-au executat cu succes (verificați linia de comandă să spună `Done` și să nu existe avertismente (warnings)) se va genera un fișier `benchmark_results.csv` și câte un fișier `.result.txt` cu rezultatele per test)
 
 
