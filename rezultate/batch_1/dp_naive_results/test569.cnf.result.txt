@@ -1,0 +1,9 @@
+S-a citit tests/batch_1/test569.cnf
+Start SAT. Resultat: UNSAT
+Clauze totale: 9534
+Număr maxim de clauze 9618
+Timp de execuție: 20582μs
+Memorie consumată: 19034112B.
+Memorie consumată: 18588KB.
+Memorie consumată: 18MB.
+Memorie consumată: 0GB.

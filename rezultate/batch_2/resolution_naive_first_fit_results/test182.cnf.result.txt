@@ -1,0 +1,7 @@
+Start SAT. Result: SAT
+Clauze totale: 26
+Timp de execuție: 6584μs
+Memorie consumată: 19050496B.
+Memorie consumată: 18604KB.
+Memorie consumată: 18MB.
+Memorie consumată: 0GB.

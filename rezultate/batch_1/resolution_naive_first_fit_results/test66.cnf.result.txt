@@ -1,0 +1,7 @@
+Start SAT. Result: UNSAT
+Clauze totale: 9578
+Timp de execuție: 15062μs
+Memorie consumată: 18853888B.
+Memorie consumată: 18412KB.
+Memorie consumată: 17MB.
+Memorie consumată: 0GB.

@@ -1,0 +1,7 @@
+S-a citit tests/batch_1/test76.cnf
+Start SAT. Resultat: UNSAT
+Timp de execuție: 88196647μs
+Memorie consumată: 18944000B.
+Memorie consumată: 18500KB.
+Memorie consumată: 18MB.
+Memorie consumată: 0GB.

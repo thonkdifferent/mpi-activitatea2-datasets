@@ -1,0 +1,2 @@
+S-a citit tests/batch_3/test553.cnf
+Start SAT. Resultat: 

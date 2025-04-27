@@ -1,0 +1,2 @@
+S-a citit tests/batch_3/test705.cnf
+Start SAT. Resultat: 

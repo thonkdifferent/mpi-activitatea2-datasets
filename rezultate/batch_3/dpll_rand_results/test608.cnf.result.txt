@@ -1,0 +1,9 @@
+S-a citit tests/batch_3/test608.cnf
+Start SAT. Resultat: SAT
+Clauze totale: 50
+Număr maxim de clauze 50
+Timp de execuție: 781μs
+Memorie consumată: 19218432B.
+Memorie consumată: 18768KB.
+Memorie consumată: 18MB.
+Memorie consumată: 0GB.

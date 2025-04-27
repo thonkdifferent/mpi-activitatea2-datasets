@@ -1,0 +1,9 @@
+S-a citit tests/batch_2/test985.cnf
+Start SAT. Resultat: SAT
+Clauze totale: 10
+Număr maxim de clauze 10
+Timp de execuție: 147μs
+Memorie consumată: 19521536B.
+Memorie consumată: 19064KB.
+Memorie consumată: 18MB.
+Memorie consumată: 0GB.

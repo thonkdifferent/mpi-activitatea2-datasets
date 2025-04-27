@@ -1,0 +1,7 @@
+S-a citit tests/batch_3/test486.cnf
+Start SAT. Resultat: SAT
+Timp de execuție: 101μs
+Memorie consumată: 18907136B.
+Memorie consumată: 18464KB.
+Memorie consumată: 18MB.
+Memorie consumată: 0GB.
