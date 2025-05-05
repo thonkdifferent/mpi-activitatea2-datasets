@@ -1,7 +1,7 @@
 S-a citit tests/batch_3/test360.cnf
-Start SAT. Resultat: SAT
-Timp de execuție: 149μs
-Memorie consumată: 18980864B.
-Memorie consumată: 18536KB.
+Start SAT. Resultat: UNSAT
+Timp de execuție: 23μs
+Memorie consumată: 19083264B.
+Memorie consumată: 18636KB.
 Memorie consumată: 18MB.
 Memorie consumată: 0GB.

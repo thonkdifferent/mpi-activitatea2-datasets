@@ -1,7 +1,7 @@
 S-a citit tests/batch_1/test943.cnf
 Start SAT. Resultat: UNSAT
-Timp de execuție: 89947325μs
-Memorie consumată: 18944000B.
-Memorie consumată: 18500KB.
+Timp de execuție: 11430μs
+Memorie consumată: 19324928B.
+Memorie consumată: 18872KB.
 Memorie consumată: 18MB.
 Memorie consumată: 0GB.

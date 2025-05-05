@@ -1,7 +1,7 @@
 S-a citit tests/batch_2/test50.cnf
 Start SAT. Resultat: SAT
-Timp de execuție: 10μs
-Memorie consumată: 18792448B.
-Memorie consumată: 18352KB.
-Memorie consumată: 17MB.
+Timp de execuție: 12μs
+Memorie consumată: 18915328B.
+Memorie consumată: 18472KB.
+Memorie consumată: 18MB.
 Memorie consumată: 0GB.
