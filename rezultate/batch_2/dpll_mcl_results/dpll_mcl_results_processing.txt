@@ -1,0 +1,3 @@
+Saving to dpll_mcl_results.csv
+Average algo time: 20.324
+Average RSS usage: 18794560.0

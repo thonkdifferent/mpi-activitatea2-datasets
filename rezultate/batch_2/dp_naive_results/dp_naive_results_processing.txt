@@ -1,0 +1,3 @@
+Saving to dp_naive_results.csv
+Average algo time: 97.862
+Average RSS usage: 18526528.0

@@ -1,0 +1,3 @@
+Saving to dpll_rand_results.csv
+Average algo time: 1930.67
+Average RSS usage: 18755424.0

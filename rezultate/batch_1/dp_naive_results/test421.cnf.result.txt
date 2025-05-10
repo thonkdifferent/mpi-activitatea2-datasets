@@ -2,8 +2,8 @@ S-a citit tests/batch_1/test421.cnf
 Start SAT. Resultat: UNSAT
 Clauze totale: 9482
 Număr maxim de clauze 9563
-Timp de execuție: 103933μs
-Memorie consumată: 19034112B.
-Memorie consumată: 18588KB.
-Memorie consumată: 18MB.
+Timp de execuție: 13931μs
+Memorie consumată: 18661376B.
+Memorie consumată: 18224KB.
+Memorie consumată: 17MB.
 Memorie consumată: 0GB.
