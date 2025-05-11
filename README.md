@@ -9,6 +9,8 @@
 3. Se execută instrucțiunile de pe repo-ul cu algoritmi
 4. Se rulează scriptul python de benchmark cu ținta (argumentul `-t`) la `<this_repo_path>/seturi-de-date/batch_<nr>`, unde `<nr>` poate să ia valori în intervalul **[1,4]**
 5. După rulare, în interiorul folderului de teste se va genera un folder cu rezultate numit `<algoritm>_results`. Dacă toți algoritmii s-au executat cu succes (verificați linia de comandă să spună `Done` și să nu existe avertismente (warnings)) se va genera un fișier `benchmark_results.csv` și câte un fișier `.result.txt` cu rezultatele per test)
+6. Se repetă pasul 5 pentru fiecare algoritm ce se dorește a fi testat
+7. Se execută din repo-ul de algoritmi fișierul ``data_sniffer.py`` cu paramentrul ``-t`` țintit la `<this_repo_path>/seturi-de-date/batch_<nr>`. Va genera pentru fiecare algoritm executat 1 fișier .csv cu datele din fișierele `.result.txt` (da, sunt diferite de `benchmark_results.csv` că sunt luate din alte surse), un fișier `_processed.txt` cu media RSS max și a timpului de execuție a testelor terminate și 2 grafice: unul cu procentul de teste terminate de algoritmul respectiv, iar altul cu o reprezentare punctiformă a timpului de execuției și a numărului maxim de resurse de memorie folosite
 
 
 ### Tipurile de date incluse
